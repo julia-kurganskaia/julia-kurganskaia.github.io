@@ -1,0 +1,10 @@
+@media screen and (min-width: 768px) {
+    /* Coppied from bootstrap.css (.fixed-top) */
+    .fixed-md-top {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+}
