@@ -1,3 +1,32 @@
+body {
+    color: #6e6c6c;
+    font-family: Verdana,Geneva,sans-serif;
+}
+
+.sidebar {
+    height: 100%;
+    background-color: #edffed;
+    border-right: solid 1px gainsboro;
+}
+
+.name {
+    font-size: 32px;
+}
+
+.icon {
+    font-size: 30px;
+}
+
+.content {
+    padding: 0;
+}
+
+.navigation {
+    background-color: white;
+    border-bottom: solid 1px gainsboro;
+    background-color: #F5F6F5;
+}
+
 @media screen and (min-width: 768px) {
     /* Coppied from bootstrap.css (.fixed-top) */
     .fixed-md-top {
