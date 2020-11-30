@@ -53,6 +53,9 @@ a:link {
     color: #585757cc;
     border-bottom: solid 1px gainsboro;
 }
+.source-link {
+    text-align: center;
+}
 
 @media screen and (min-width: 768px) {
     /* Copied from bootstrap.css (.fixed-top) */
