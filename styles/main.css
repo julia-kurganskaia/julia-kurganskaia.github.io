@@ -57,6 +57,10 @@ a:link {
     text-align: center;
 }
 
+.quote {
+    font-size: 17px;
+}
+
 @media screen and (min-width: 768px) {
     /* Copied from bootstrap.css (.fixed-top) */
     .fixed-md-top {
